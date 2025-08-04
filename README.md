@@ -17,3 +17,23 @@ Esta aplicación web interactiva permite explorar y visualizar datos de vehícul
 - **Render**: Plataforma de despliegue
 
 ## Estructura del Proyecto
+.
+├── README.md
+├── app.py                 # Aplicación principal
+├── vehicles_us.csv        # Dataset de vehículos
+├── requirements.txt       # Dependencias
+└── notebooks/
+└── EDA.ipynb         # Análisis exploratorio
+
+## Cómo Ejecutar Localmente
+1. Clonar el repositorio
+2. Crear entorno virtual: `python -m venv vehicles_env`
+3. Activar entorno: `vehicles_env\Scripts\activate` (Windows) o `source vehicles_env/bin/activate` (Mac/Linux)
+4. Instalar dependencias: `pip install -r requirements.txt`
+5. Ejecutar aplicación: `streamlit run app.py`
+
+## Enlace a la Aplicación
+[Ver aplicación desplegada](https://TU-APP-NAME.onrender.com)
+
+## Autor
+Baltazar Dimayuga 
