@@ -33,7 +33,6 @@ Esta aplicación web interactiva permite explorar y visualizar datos de vehícul
 5. Ejecutar aplicación: `streamlit run app.py`
 
 ## Enlace a la Aplicación
-[Ver aplicación desplegada](https://TU-APP-NAME.onrender.com)
-
+[[Ver aplicación desplegada][(https://vehicles-dashboard-gfhj.onrender.com/)]
 ## Autor
 Baltazar Dimayuga 
