@@ -1,0 +1,6 @@
+price,model_year,model,condition,cylinders,fuel,odometer,title_status,transmission,drive,size,type,paint_color,state
+15000,2018,toyota camry,good,4.0,gas,50000,clean,automatic,fwd,mid-size,sedan,white,ca
+12000,2016,honda civic,fair,4.0,gas,80000,clean,automatic,fwd,compact,sedan,blue,ny
+18000,2020,ford f-150,excellent,8.0,gas,30000,clean,automatic,4wd,full-size,pickup,black,tx
+22000,2019,bmw 3 series,good,4.0,gas,45000,clean,automatic,rwd,compact,sedan,silver,fl
+8000,2015,toyota corolla,fair,4.0,gas,95000,clean,manual,fwd,compact,sedan,red,ca
